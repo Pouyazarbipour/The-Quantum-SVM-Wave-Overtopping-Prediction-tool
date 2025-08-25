@@ -9,7 +9,7 @@ This project employs a quantum machine learning model, built on the CLASH databa
 The model uses the following input parameters from the CLASH database:
 
 - **Output Parameter**:
-- **Dimensionless average wave overtopping discharge (*Sq*)**: [-], range: 1×10⁻⁸ – 0.01, defined as: Sq = q / sqrt(g * (Hm0,toe)^3)
+    - **Dimensionless average wave overtopping discharge (*Sq*)**: [-], range: 1×10⁻⁸ – 0.01, defined as: Sq = q / sqrt(g * (Hm0,toe)^3)
     where *q* is the average wave overtopping discharge [m³/s/m], *g* is the acceleration due to gravity [m/s²], and *Hm0,toe* is the spectral significant wave height at the toe [m].
 
 - **Input Parameters**:
