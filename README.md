@@ -38,8 +38,8 @@ To quantify prediction uncertainty, a quantum Monte Carlo sampling method is use
 For detailed instructions, refer to the [Zarbipour et al., 2025](https://coastalhydlab.ir/software/qml-clash/manual).
 
 ## Downloads
-- [Download the Software](https://coastalhydlab.ir/software/qml-clash/download)
-- [Download User & Technical Manual](https://coastalhydlab.ir/software/qml-clash/manual)
+- [Download the Software](https://drive.google.com/file/d/1WudjNT1_ua1YdLUYzoj-hfeU3nU5h1i8/view?usp=sharing)
+- [Download User & Technical Manual](https://drive.google.com/file/d/1WudjNT1_ua1YdLUYzoj-hfeU3nU5h1i8/view?usp=sharing)
 
 ## About
 Developed by Pouya Zarbipour. For inquiries or feedback, contact [pouyazarbipour@gmail.com](mailto:pouyazarbipour@gmail.com).
