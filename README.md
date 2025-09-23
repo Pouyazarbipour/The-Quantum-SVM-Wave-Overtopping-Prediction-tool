@@ -1,8 +1,8 @@
 # The Quantum SVM Wave Overtopping Prediction Tool
 
-![Main Page GUI](https://raw.githubusercontent.com/Pouyazarbipour/The-Quantum-SVM-Wave-Overtopping-Prediction-tool/main/GUI%20pic/main_page.JPG)
-
 Welcome to the **Quantum SVM Wave Overtopping Prediction Tool**, a cutting-edge desktop application leveraging quantum machine learning (QML) and the CLASH database. This standalone executable delivers highly accurate predictions of average wave overtopping discharge for coastal structures, utilizing quantum-enhanced algorithms to process complex hydrodynamic and structural interactions.
+
+![Main Page GUI](https://raw.githubusercontent.com/Pouyazarbipour/The-Quantum-SVM-Wave-Overtopping-Prediction-tool/main/GUI%20pic/main_page.JPG)
 
 ## Overview
 This project employs a quantum machine learning model, built on the CLASH database, to predict the average wave overtopping discharge (`q`) for coastal structures. The model integrates quantum computing principles to enhance predictive performance, achieving an **R² of 0.97** for both training and testing datasets. The dataset is split into **70% training**, **15% validation**, and **15% testing**.
