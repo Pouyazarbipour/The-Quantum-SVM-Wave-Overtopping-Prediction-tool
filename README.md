@@ -48,4 +48,4 @@ For detailed instructions, refer to [Zarbipour et al., 2026](https://doi.org/10.
 Developed by **Pouya Zarbipour**. For inquiries or feedback, contact [pouyazarbipour@gmail.com](mailto:pouyazarbipour@gmail.com).
 
 ## Disclaimer
-This tool aims to enhance the prediction of wave overtopping for coastal structure design. Users should consult the **User & Technical Manual** for details on intended use, limitations, and quantum computing requirements.
+This tool aims to enhance the prediction of wave overtopping for coastal structure design. Users should consult the [User & Technical Manual](https://doi.org/10.1016/j.oceaneng.2024.119465) for details on intended use, limitations, and quantum computing requirements.
