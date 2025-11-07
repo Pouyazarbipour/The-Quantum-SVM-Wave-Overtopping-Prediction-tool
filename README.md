@@ -40,9 +40,9 @@ To quantify prediction uncertainty, a **quantum Monte Carlo sampling method** is
 For detailed instructions, refer to [Zarbipour et al., 2026](https://doi.org/10.1016/j.oceaneng.2024.119465).
 
 ## Downloads
-- [Download for Windows (.exe)](https://drive.google.com/file/d/1WudjNT1_ua1YdLUYzoj-hfeU3nU5h1i8/view?usp=sharing)
-- [Download for macOS (.dmg)](https://drive.google.com/file/d/1WudjNT1_ua1YdLUYzoj-hfeU3nU5h1i8/view?usp=sharing)
-- [User & Technical Manual](https://drive.google.com/file/d/1WudjNT1_ua1YdLUYzoj-hfeU3nU5h1i8/view?usp=sharing)
+- [Download for Windows (.exe)](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
+- [Download for macOS (.dmg)](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
+- [User & Technical Manual](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
 
 ## About
 Developed by **Pouya Zarbipour**. For inquiries or feedback, contact [pouyazarbipour@gmail.com](mailto:pouyazarbipour@gmail.com).
