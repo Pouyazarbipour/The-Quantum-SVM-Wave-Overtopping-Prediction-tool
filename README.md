@@ -42,10 +42,10 @@ For detailed instructions, refer to [Zarbipour et al., 2026](https://doi.org/10.
 ## Downloads
 - [Download for Windows (.exe)](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
 - [Download for macOS (.dmg)](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
-- [User & Technical Manual](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
+- [User & Technical Manual](https://www.researchgate.net/publication/397600235_The_Quantum_SVM_Wave_Overtopping_Prediction_Tool_User_Technical_Manual_Version_100/)
 
 ## About
 Developed by **Pouya Zarbipour**. For inquiries or feedback, contact [pouyazarbipour@gmail.com](mailto:pouyazarbipour@gmail.com).
 
 ## Disclaimer
-This tool aims to enhance the prediction of wave overtopping for coastal structure design. Users should consult the [User & Technical Manual](https://doi.org/10.1016/j.oceaneng.2024.119465) for details on intended use, limitations, and quantum computing requirements.
+This tool aims to enhance the prediction of wave overtopping for coastal structure design. Users should consult the [User & Technical Manual](https://www.researchgate.net/publication/397600235_The_Quantum_SVM_Wave_Overtopping_Prediction_Tool_User_Technical_Manual_Version_100/) for details on intended use, limitations, and quantum computing requirements.
