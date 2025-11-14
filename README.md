@@ -7,7 +7,7 @@ Welcome to the **Quantum SVM Wave Overtopping Prediction Tool**, a cutting-edge 
 ## Overview
 This project employs a quantum machine learning model, built on the CLASH database, to predict the average wave overtopping discharge (`q`) for coastal structures. The model integrates quantum computing principles to enhance predictive performance, achieving an **R² of 0.97** for both training and testing datasets. The dataset is split into **70% training**, **15% validation**, and **15% testing**.
 
-For further details, refer to [Zarbipour et al. (2026)](https://doi.org/10.1016/j.oceaneng.2024.119465).
+For further details, refer to [Zarbipour et al. (2026)](https://doi.org/10.1016/j.oceaneng.2025.123482).
 
 ## Data Range and Parameters
 The model uses the following input parameters from the CLASH database:
@@ -37,7 +37,7 @@ The quantum machine learning model utilizes quantum circuits to enhance feature 
 
 To quantify prediction uncertainty, a **quantum Monte Carlo sampling method** is used, generating multiple quantum state predictions. The standard deviation of these predictions provides variability estimates, with a **95% confidence interval** calculated as `prediction ± 1.96 × standard deviation`. An upper-bound prediction (`prediction + standard deviation`) is provided for conservative design, corresponding to approximately the **84th percentile**.
 
-For detailed instructions, refer to [Zarbipour et al., 2026](https://doi.org/10.1016/j.oceaneng.2024.119465).
+For detailed instructions, refer to [Zarbipour et al., 2026](https://doi.org/10.1016/j.oceaneng.2025.123482).
 
 ## Downloads
 - [Download for Windows (.exe)](https://drive.google.com/file/d/11BHSl4onbDX9TEog0DAqbyB7ikn5LmxM/view?usp=sharing)
